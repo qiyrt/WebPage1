@@ -1,0 +1,16 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<div class="xl12 xs3 xm3 xb3">
+    <div class="panel border-sub">
+        <div class="panel-head  border-sub bg-sub">
+            <strong>友情链接</strong>
+        </div>
+        <div class="panel-body">
+            <ul class="list-group">
+                <li><span class="float-right badge">20</span>电信学院</li>
+                <li><span class="float-right">2018-5-8</span>网络课堂</li>
+                <li><span class="float-right tag">热门</span>教务在线</li>
+            </ul>
+        </div>
+    </div>
+</div>
